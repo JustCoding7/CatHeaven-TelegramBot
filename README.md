@@ -5,6 +5,7 @@
 ## About
 #### A Simple Bot made using different APIs to provide some Cats on Telegram 😺.
 ##### P.S. - We don't smuggle them, they are safe and sound.
+##### More P.S. - This Bot is Currently Hosted on PythonAnywhere so code is written according to that. I'll also add one for Heroku.
 
 ## Features Available Yet :-
 
